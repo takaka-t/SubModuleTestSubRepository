@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <PackageProjectUrl>https://github.com/takaka-t/SubModuleTestSubRepository</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/takaka-t/SubModuleTestSubRepository</RepositoryUrl>
+    <Company>takaka-t</Company>
+    <Authors>takaka-t</Authors>
   </PropertyGroup>
 
 </Project>
