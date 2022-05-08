@@ -17,11 +17,6 @@ jobs:
         env:
           USER_NAME: takaka-t
           NUGET_AUTH_TOKEN: ${{secrets.TOKEN_GITHUB}}
-      - name: Build and Test
-        run: |
-          cd "${GITHUB_WORKSPACE}/${SOLUTION_DIR}/"
-          dotnet build -c Release
-          dotnet test -c Release --no-build
       - name: Pack and Publish
         run: |
           cd "${GITHUB_WORKSPACE}/${SOLUTION_DIR}/"
