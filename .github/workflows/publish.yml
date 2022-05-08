@@ -2,8 +2,7 @@ name: Publish NuGet Package
 
 on:
   push:
-    tags:
-      - ver.*
+
 
 jobs:
   publish:
