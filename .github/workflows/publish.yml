@@ -17,7 +17,7 @@ jobs:
           source-url: "https://nuget.pkg.github.com/${USER_NAME}/index.json"
         env:
           USER_NAME: takaka-t
-          NUGET_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          NUGET_AUTH_TOKEN: ${{secrets.TOKEN_GITHUB}}
       - name: Build and Test
         run: |
           cd "${GITHUB_WORKSPACE}/${SOLUTION_DIR}/"
