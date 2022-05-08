@@ -11,7 +11,9 @@ namespace SubProject
             //return "こんちゃすす!!";
             //return "こんちゃすぇい!!";
             //return "こんちゃすぇいえいえいえ!!";
-            return "hey!!";
+            //return "hey!!";
+            return "HeyYo!!";
+
         }
     }
 }
