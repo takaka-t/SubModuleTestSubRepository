@@ -2,7 +2,8 @@ name: Publish NuGet Package
 
 on:
   push:
-
+    branches:
+      - 'master'
 
 jobs:
   publish:
