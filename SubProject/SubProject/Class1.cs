@@ -6,7 +6,8 @@ namespace SubProject
     {
         public static string TestFunction()
         {
-            return "ちゃす";
+            //return "ちゃす";
+            return "　こんちゃす";
         }
     }
 }
