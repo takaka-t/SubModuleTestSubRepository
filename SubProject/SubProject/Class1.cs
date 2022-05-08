@@ -7,7 +7,8 @@ namespace SubProject
         public static string TestFunction()
         {
             //return "ちゃす";
-            return "　こんちゃす";
+            //return "こんちゃす";
+            return "こんちゃすす!!";
         }
     }
 }
