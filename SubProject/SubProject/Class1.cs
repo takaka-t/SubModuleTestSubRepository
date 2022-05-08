@@ -10,7 +10,8 @@ namespace SubProject
             //return "こんちゃす";
             //return "こんちゃすす!!";
             //return "こんちゃすぇい!!";
-            return "こんちゃすぇいえいえいえ!!";
+            //return "こんちゃすぇいえいえいえ!!";
+            return "hey!!";
         }
     }
 }
