@@ -12,7 +12,7 @@ namespace SubProject
             //return "こんちゃすぇい!!";
             //return "こんちゃすぇいえいえいえ!!";
             //return "hey!!";
-            return "HeyYo!!";
+            return "HeyYo!!a";
 
         }
     }
